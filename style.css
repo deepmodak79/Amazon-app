@@ -2,7 +2,7 @@
     padding:0;
     margin:0;
     font-family: Arial, Helvetica, sans-serif;
-    /* background-color: blue; */
+    /* background-color: #e3e6e6; */
 }
 
 
@@ -152,4 +152,124 @@
     color:white;
     text-decoration: none;
     margin-left: 16px
+}
+.main_body{
+    background-color: red;
+    background-image: url(All_photos/pic_2.jpg);
+    background-size: cover;
+    width: 1500px;
+    height:400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10%;
+}
+
+.text {
+    background-color: #f5f6f6;
+    width:1460px;
+    height:40px;
+    display: flex;
+    margin-top:300px;
+    
+}
+.text_value{
+    display: flex;
+    align-items: center;
+    margin-left: 250px;
+}
+.link {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.card_1{
+    display: flex;
+    justify-content: space-evenly;
+    /* width:350px;
+    height:385px;
+    padding-top:20px; */
+    /* padding-bottom:15px;
+    margin-left:190px; */
+}
+.card_a{
+    color:#0f1111;
+    font-size: 21x;
+    background-color: #CCCCCC;
+    width:350px;
+    height:385px;
+    padding-left:20px;
+    padding-top:20px;
+    padding-bottom: 15px;
+    margin-left: 10px;
+}
+.link_1 a{
+    text-decoration: none;
+    font-color:#2162A1;
+    font-size: 13px;
+}
+.img_1{
+    margin-left: 15px;
+}
+
+.card_b{
+    color:#0f1111;
+    font-size: 21x;
+    background-color: #CCCCCC;
+    width:350px;
+    height:385px;
+    padding-left:20px;
+    padding-top:20px;
+    padding-bottom: 15px;
+    margin-left: 10px;
+}
+.link_2 a{
+    text-decoration: none;
+    font-color:#2162A1;
+    font-size: 13px;
+}
+.img_2{
+    margin-left: 15px;
+}
+
+
+.card_c{
+    color:#0f1111;
+    font-size: 21x;
+    background-color: #CCCCCC;
+    width:350px;
+    height:385px;
+    padding-left:20px;
+    padding-top:20px;
+    padding-bottom: 15px;
+    margin-left: 10px;
+}
+.link_3 a{
+    text-decoration: none;
+    font-color:#2162A1;
+    font-size: 13px;
+}
+.img_3{
+    margin-left: 15px;
+}
+
+.card_d{
+    color:#0f1111;
+    font-size: 21x;
+    background-color: #CCCCCC;
+    width:350px;
+    height:385px;
+    padding-left:20px;
+    padding-top:20px;
+    padding-bottom: 15px;
+    margin-left: 10px;
+}
+.link_4 a{
+    text-decoration: none;
+    font-color:#2162A1;
+    font-size: 13px;
+}
+.img_4{
+    margin-left: 15px;
 }
